@@ -9,7 +9,7 @@
         2 2
          1
 */
-class Pyramid_7{
+class Pyramid7{
  public static void main(String args[]){
 	 
 	 for(int i=9;i>=1;i--)
